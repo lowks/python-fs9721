@@ -32,7 +32,7 @@ setup(
     name='fs9721',
     version=__version__,
     url='http://github.com/coddingtonbear/python-fs9721/',
-    description='',
+    description='Gather measurements from your multimeters',
     author='Adam Coddington',
     author_email='me@adamcoddington.net',
     classifiers=[
